@@ -3,5 +3,4 @@
 - estou estudando na Alura
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organizava e compartilhamento dos meus projetos desenvolvidos
-![](https://tenor.com/pt-BR/view/tf2-spy-blue-spy-red-spy-medic-gif-15643609616844963846)
-
+![](https://media1.tenor.com/m/NwNrvXe0Q4YAAAAd/joey-jordison-slipknoyt.gif)
